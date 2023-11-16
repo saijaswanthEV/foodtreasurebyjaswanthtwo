@@ -1,0 +1,152 @@
+.logoblock{
+    height: 200px;
+    width: 100%;
+    border-color: aliceblue;
+    border-radius: 10px;
+}
+.BUTT{
+    
+   
+    margin: 20px;
+    color: #e7d158;
+    font-weight: 400;
+    background-color:#433812;
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+.logo {
+    width: auto; /* You can change this value to your desired width */
+    height: 200px; /* Setting height to auto maintains the image's aspect ratio */
+    padding: 0%;
+    border-radius: 10px;
+    border-color: white;
+    
+}
+.matter{
+    padding: 30px;
+    background-color: #433812;
+    padding: 8px;
+    margin: 30px;
+    border-color: white;
+    border-radius: 10px;
+
+    
+
+}
+.pagtext{
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+    color:#e7d158;
+    margin: 6px;
+    border-radius: 8px;
+    padding: 5px;
+    
+}
+.hed{
+         background-color: white;
+         color: #ac8501;
+         text-align: justify;
+         padding: 5px;
+         border-radius: 8px;
+         margin: 20px;
+         text-align: center;
+}
+.contone{
+    
+}
+.backful{
+    background-image: url(biriyanione.jpg);
+}
+.areast{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-weight: 200;
+    
+}
+
+background-image:url("biriyanione.jpg")
+
+
+.abut{
+    
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color:#ac8501;
+        font-weight: 200;
+        
+}
+.resent{
+     background-color:#433812;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     color: #e7d158;
+     font-weight: 300;
+     padding: 10px;
+     border-radius: 10px;
+     margin: 10px;
+     border-color: #e7d158;
+     
+}
+
+
+button{
+
+  background-color:#433812;
+  color:#e7d158;
+  font-size: 16px;
+  padding: 16px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  
+
+}
+.buttoncontaner{
+    padding: 10px;
+    margin: 20px;
+
+}
+.locationwise{
+    background-color: #e7d158;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5px;
+    font-size: x-large;
+    font-weight: 600;
+    font-family:Times, serif 'Arial Narrow Bold', sans-serif;
+    color: #433812;
+    text-align: justify;
+    margin: 30px;
+    
+
+}
+
+.HYDIMAGE{
+     height:300px;
+     width: auto;
+     margin: 19px;
+     padding: 20px;
+     border-radius: 30px;
+}
+.hydintaro{
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    color: #ac8501;
+    border-radius: 20px;
+}
+
+.areatext{
+    background-color: #e7d158;
+    color: #433812;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+
+
